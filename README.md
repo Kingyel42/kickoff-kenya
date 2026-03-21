@@ -156,3 +156,4 @@ This project is designed to deploy on **Vercel**:
 4. Deploy — Vercel detects Next.js automatically
 
 Make sure to update `NEXT_PUBLIC_SITE_URL` to your production domain and add it to Supabase's allowed redirect URLs.
+
